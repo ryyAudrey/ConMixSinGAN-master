@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="amax@10.78.223.37:12022" showDialogOnRemoteDnD="false">
+    <serverData>
+      <paths name="amax@10.78.223.37:12022">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/amax/Documents/ryy/ConSinGAN" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
